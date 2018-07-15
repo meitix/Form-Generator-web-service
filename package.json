@@ -1,0 +1,17 @@
+{
+  "name": "form-generator-with-no-sql",
+  "version": "0.0.0",
+  "description": "FormGeneratorWithNoSql",
+  "main": "server.js",
+  "author": {
+    "name": "valizadeh"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "jalaali-js": "^1.1.0",
+    "mongodb": "^2.2.33"
+  },
+  "devDependencies": {}
+}

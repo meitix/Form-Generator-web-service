@@ -1,0 +1,16 @@
+[
+  {
+    "outputFileName": "DAL/forms-repository.min.js",
+    "inputFiles": [
+      "DAL/forms-repository.js"
+    ]
+  },
+  {
+    "outputFileName": "DAL/bundle.js",
+    "inputFiles": [
+      "DAL/forms-repository.js",
+      "DAL/repository-base.js",
+      "DAL/users-repository.js"
+    ]
+  }
+]
